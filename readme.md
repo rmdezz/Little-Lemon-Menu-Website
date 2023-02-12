@@ -12,9 +12,9 @@ This project showcases the development of a website for the Little Lemon restaur
     * Image
 
 # Technologies Used
-Django
-HTML
-CSS
+* Django
+* HTML
+* CSS
 
 # Peer Review
 This project was created as part of a peer review exercise in which the completed website was submitted for review by two peers.
